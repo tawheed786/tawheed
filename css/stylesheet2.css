@@ -1,0 +1,36 @@
+body{
+    background-image: url(b2ap3_large_quran_peace.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 1260px;
+
+}
+
+.about{
+    color: #A3E4D7;
+    padding: 50px 500px;
+    text-align: justify;
+    text-justify: inter-word
+}
+
+.about2{
+
+    color: #A3E4D7;
+    padding: 50px 100px;
+    text-align: justify;
+    text-justify: inter-word
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.qqq{
+    padding: 3% 8%;
+}
